@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
+git clone <https://github.com/DavidKharazi/NLP_Test.git>
 cd <NLP_Test>
 ```
 
